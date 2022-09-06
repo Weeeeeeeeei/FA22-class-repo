@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace MunroHoberman{
 public class SceneLoader : MonoBehaviour
 {
     public void LoadScene(string scene)
@@ -11,5 +10,4 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(scene);
     }
 
-}
 }

@@ -1,6 +1,5 @@
 using UnityEngine;
 
-namespace MunroHoberman{
     public class Enemy : MonoBehaviour
     {
         // Start is called before the first frame update
@@ -15,5 +14,5 @@ namespace MunroHoberman{
             
         }
     }
-}
+
 
